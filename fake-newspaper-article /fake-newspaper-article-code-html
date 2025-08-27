@@ -1,0 +1,27 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Newspaper Article</title>
+ <!-- Link stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+  <!-- Google Font: Open Sans -->
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="newspaper">
+    <div class="name">Daily Chronicle</div>
+    <div class="date">August 27, 2025</div>
+    <div class="headline">AI Revolution Transforms Cybersecurity</div>
+    <div class="sub-headline">Automation meets defense in the digital battlefield</div>
+    <div class="author">Daniel Dawkins</div>
+    <p class="text">Artificial intelligence has become the backbone of modern cybersecurity. With threats evolving at an unprecedented rate, organizations are turning to AI-driven systems for real-time protection and response.</p>
+    <p class="text">Experts believe the integration of automation and AI will not only strengthen defenses but also close the skills gap across the industry. This shift is expected to redefine the cybersecurity landscape over the next decade.</p>
+  </div>
+</body>
+</html>
+
+** end of index.html **
